@@ -1,0 +1,1 @@
+The training split exceeds the file size limit of github. Please download it from https://huggingface.co/datasets/Inria-CEDAR/FDSpotter

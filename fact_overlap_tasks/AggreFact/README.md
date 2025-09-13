@@ -12,7 +12,7 @@ If you want to obtain the results step by step, please run the following scripts
 
     python3 step1_intrinsic_extrinsic_confidence.py
 
-The input file "out0_gpt4o_ext_prob.json" is the GPT4 output from OpenAI API.
+The input file "af_gpt4o_ext_prob.json" is the GPT4 output from OpenAI API, available at https://huggingface.co/datasets/Inria-CEDAR/FDSpotter/tree/main
 
 In the output file "out1_intrinsic_extrinsic_confidence.json", "cls conf" field is intrinsic confidence, and "cls faith" field is extrinsic confidence. 
 

@@ -2,9 +2,6 @@ export MASTER_PORT=9597
 export MASTER_ADDR=localhost
 source setup.sh
 
-cat /proc/cpuinfo
-nvidia-smi
-
 python3 src/nli/training.py \
   --model_class_name "deberta-v3-large" \
   -n 1 \

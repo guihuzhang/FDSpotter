@@ -18,7 +18,7 @@ In the output file "out1_intrinsic_extrinsic_confidence.json", "cls conf" field 
 
 For using "neuralcoref" and "mosestokenizer" packages, the environment should be under python3.7 with spacy==2.1.0 . Otherwise there would be compatibility issues. 
 
-**2.** To the CSV file for final result computation, please run 
+**2.** To get the CSV file for final result computation, please run 
 
     python3 step2_summary_scoring_binary_log.py
 

@@ -10,7 +10,7 @@ Todo list:
 - AggreFact ✅ in folder ./fact_overlap_tasks/AggreFact
 - Summeval
 - WebNLG eval
-- DiverSumm
+- DiverSumm ✅ in folder ./fact_overlap_tasks/Diversumm
 - extraction output and eval
 
 README for each part

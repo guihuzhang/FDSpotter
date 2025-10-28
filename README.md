@@ -8,9 +8,8 @@ Todo list:
 
 - FDSpotter training ✅ in folder ./fact_overlap
 - AggreFact ✅ in folder ./fact_overlap_tasks/AggreFact
-- Summeval
+- Summeval ✅
 - WebNLG eval
 - DiverSumm ✅ in folder ./fact_overlap_tasks/Diversumm
 - extraction output and eval
-
-README for each part
+- README for each part

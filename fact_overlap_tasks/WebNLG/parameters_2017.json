@@ -1,0 +1,16 @@
+{
+  "model-base": "Inria-CEDAR/FDSpotter-DeBERTa-V3-Large",
+  "teams-samples": "datasets/webnlg2017/teams-generations",
+  "human-annotations": "datasets/webnlg2017/human-annotations",
+  "human-categories": ["fluency", "grammar", "semantics"],
+  "metrics-path": "metrics_results/webnlg2017",
+  "gen-extraction": "extraction_output/webnlg2017_gen_ext_processed.json",
+  "gt-extraction": "extraction_output/webnlg2017_ref_ext_processed.json",
+  "no-samples": 223,
+  "metrics": "blue,meteor,bart,bert,infolm",
+  "num_references": 3,
+  "references-faith": "datasets/webnlg2017/triples_text.txt",
+  "references": "datasets/webnlg2017/reference",
+  "logging-path": "metrics_results/webnlg2017/logging.txt",
+  "bootstrapping": 1000
+}
